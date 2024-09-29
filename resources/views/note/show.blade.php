@@ -1,3 +1,3 @@
-<div>
-    <!-- Waste no more time arguing what a good man should be, be one. - Marcus Aurelius -->
-</div>
+<x-layout>
+<h1>Show</h1>
+</x-layout>
